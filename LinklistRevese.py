@@ -34,7 +34,7 @@ class LinkedList:
 
  
  
-# Driver program to test above functions
+
 llist = LinkedList()
 llist.push(20)
 llist.push(4)
